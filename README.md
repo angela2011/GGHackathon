@@ -1,4 +1,4 @@
-# GridGarrison 🔒⚡
+# GridGarrison 
 
 **EV Charging Trust & Identity Platform** — OCPP 2.0.1 · Blockchain · Digital Twin
 
